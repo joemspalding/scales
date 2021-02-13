@@ -13,7 +13,7 @@ A `.map(...)` will do whatever work you want in the function and transform what 
     {
         name: "C",
         isKey: false,
-        isSelected: false
+        isSelected: true
     }
 
 into
