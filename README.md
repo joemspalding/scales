@@ -4,6 +4,12 @@ An example for a student in Code Louisville to see the power of JS objects + JS 
 
 [Link to Original Repo](https://github.com/codebrews/scale-generator)
 
+## How To Use This Project
+
+- Open up `index.html`
+- Open the browser console.
+- Type `setScale(note, scale)` in the console and press Enter/Return to change the scale and observe the visual effects. (Ex. `setScale("C#/Db", "major")`)
+
 ## Explanation
 
 The code updates the `notes` array via the `updateNotesArray(...)` function. Then the code calls `updateDOM()` where several JS array methods check the state of the `notes` array and `.map(...)` them to HTML elements and `.reduce()` that array of strings to a single string.
