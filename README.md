@@ -9,6 +9,7 @@ The code updates the `notes` array via the `updateNotesArray(...)` function. The
 ### .map
 
 A `.map(...)` will do whatever work you want in the function and transform what you pass in into what you return. In `scales.js` I pass in a `Note` object and transform it into an `HTML Element` in the form of a `string` so it goes from :
+
     {
         name: "C",
         isKey: false,
