@@ -22,6 +22,6 @@ into
 
 and so on for the rest of the members of the array.
 
-## .reduce
+### .reduce
 
 A `.reduce(...)` is intended to reduce your array into a single thing, which is stored in the accumulator, or `acc` as it is named in the code. In this case, I am transforming the array of strings into a single string. This type of explanation is very simplified and I highly recommend researching `.reduce(...)` deeper to understand it further because it is a powerful tool in your array arsenal.
