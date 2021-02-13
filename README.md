@@ -8,7 +8,7 @@ An example for a student in Code Louisville to see the power of JS objects + JS 
 
 - Open up `index.html`
 - Open the browser console.
-- Type `setScale(note, scale)` in the console and press Enter/Return to change the scale and observe the visual effects. (Ex. `setScale("C#/Db", "major")`)
+- Type `selectScale(note, scale)` in the console and press Enter/Return to change the scale and observe the visual effects. (Ex. `selectScale("C#/Db", "major")`)
 
 ## Explanation
 
